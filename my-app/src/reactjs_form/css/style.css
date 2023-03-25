@@ -1,0 +1,16 @@
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+.box_1{
+    width: 49%;
+}
+.form-group{
+    text-align: left;
+}
+.btn1{
+    text-align: left;
+}
+label{
+    padding: 3px 0px;
+}

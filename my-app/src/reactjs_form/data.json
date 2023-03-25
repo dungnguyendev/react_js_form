@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "fullName": "Nguyễn Tiến Dũng",
+        "Phone": "0366764838",
+        "Email": "dungnguyentien277@gmail.com",
+        "type": "STUDENT"
+    },
+    {
+        "id": 2,
+        "fullName": "Hoàng Văn Thái",
+        "Phone": "0366764123",
+        "Email": "dungnguyentien123@gmail.com",
+        "type": "STUDENT"
+    },
+    {
+        "id": 3,
+        "fullName": "Nông Đức Mạnh",
+        "Phone": "0366764123",
+        "Email": "234@gmail.com",
+        "type": "STUDENT"
+    },
+    {
+        "id": 4,
+        "fullName": "Lê Quang Thục",
+        "Phone": "0366764123",
+        "Email": "123@gmail.com",
+        "type": "STUDENT"
+    }
+]
